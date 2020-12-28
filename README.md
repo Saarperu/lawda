@@ -1,4 +1,4 @@
-# MiXLab
+# lawda
 
 This Notebook is a mix of multiple amazing Notebooks found on the internet.
 
