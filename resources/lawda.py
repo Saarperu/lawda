@@ -404,7 +404,7 @@ def updateCheck(self, Version):
           return message
 
     check = UpdateChecker()
-    check.URL = "https://raw.githubusercontent.com/Saarperu/lawda/blob/master/resources/update.xml"
+    check.URL = "https://raw.githubusercontent.com/Saarperu/lawda/master/resources/update.xml"
     currentVersion = check.getVersion("currentVersion")
     message = check.getMessage("message")
 
